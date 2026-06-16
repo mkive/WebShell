@@ -17,3 +17,21 @@
 | 13 | oldkingcone/Wordpress-Backdoors | [https://github.com/oldkingcone/Wordpress-Backdoors](https://github.com/oldkingcone/Wordpress-Backdoors) |
 | 14 | c01dsnap/Webshell | [https://huggingface.co/datasets/c01dsnap/Webshell/tree/main](https://huggingface.co/datasets/c01dsnap/Webshell/tree/main) |
 | 15 | PHP-Webshell-Detection-via-Opcode-Analysis | [https://github.com/w-32768/PHP-Webshell-Detection-via-Opcode-Analysis](https://github.com/w-32768/PHP-Webshell-Detection-via-Opcode-Analysis) |
+
+
+## 📂 주요 CMS 및 프레임워크 저장소 목록
+
+| Index | Repository | 공식 GitHub 저장소 URL |
+| :--- | :--- | :--- |
+| 1 | Grav | [https://github.com/getgrav/grav](https://github.com/getgrav/grav) |
+| 2 | OctoberCMS | [https://github.com/octobercms/october](https://github.com/octobercms/october) |
+| 3 | Laravel | [https://github.com/laravel/laravel](https://github.com/laravel/laravel) |
+| 4 | WordPress | [https://github.com/WordPress/WordPress](https://github.com/WordPress/WordPress) |
+| 5 | Joomla | [https://github.com/joomla/joomla-cms](https://github.com/joomla/joomla-cms) |
+| 6 | Nextcloud | [https://github.com/nextcloud/server](https://github.com/nextcloud/server) |
+| 7 | Symfony | [https://github.com/symfony/symfony](https://github.com/symfony/symfony) |
+| 8 | CodeIgniter | [https://github.com/codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) |
+| 9 | Yii2 | [https://github.com/yiisoft/yii2](https://github.com/yiisoft/yii2) |
+| 10 | CakePHP | [https://github.com/cakephp/cakephp](https://github.com/cakephp/cakephp) |
+| 11 | Intervention/Image | [https://github.com/Intervention/image](https://github.com/Intervention/image) |
+| 12 | Typecho | [https://github.com/typecho/typecho](https://github.com/typecho/typecho) |
