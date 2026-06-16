@@ -1,6 +1,6 @@
 ## 📂 WebShell 관련 저장소 목록
 
-| 번호 | 저장소 이름 | URL |
+| Index | Repository | URL |
 | :---: | :--- | :--- |
 | 1 | WebShell | [https://github.com/xl7dev/WebShell](https://github.com/xl7dev/WebShell) |
 | 2 | WebshellSample | [https://github.com/tanjiti/webshellSample](https://github.com/tanjiti/webshellSample) |
